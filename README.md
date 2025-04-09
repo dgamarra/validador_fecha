@@ -2,5 +2,5 @@
 
 | N | Apellidos y nombres del estudiante |
 |---|------------------------------------|
-| 1 |                                    |
+| 1 | Daniel                             |
 
