@@ -2,7 +2,7 @@
 ## Desarrollador
 | N | Apellidos y nombres del estudiante |
 |---|------------------------------------|
-| 1 | Daniel                             |
+| 1 | Daniel Gamarra                     |
 
 ## Descripción
 ### Propósito
